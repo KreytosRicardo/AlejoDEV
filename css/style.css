@@ -1,0 +1,40 @@
+#div1, #div2{
+    background-color: aqua;
+    text-align: center;
+    margin-bottom: 10px;
+    max-width: 400px;
+    max-height: 2000px;
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px;
+}
+#div3{
+    display: flex;
+    background-color: rgb(72, 233, 179);
+    max-width: 800px;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+p{
+    text-align: justify;
+}
+#CO, #EXP{
+    margin: 20px;
+    background-color: rgb(173, 250, 224);
+    border-radius: 20px;
+} 
+#FOR{
+    margin: auto;
+    background-color: rgb(173, 250, 224);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+li{
+    text-align:left;
+}
+
+
